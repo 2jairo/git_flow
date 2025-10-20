@@ -23,6 +23,16 @@ Aquest model facilita el treball en equip, assegura un desenvolupament organitza
 3. Implementa l’estructura inicial del projecte amb el [boilerplate](link).  
    - La pàgina inicial conté: capçalera, barra de navegació (`Home`) i peu de pàgina (`footer`).  
 
+- Creació de la estructura inicial
+![img0](imgs/0.png)
+
+- Iniciem una feature
+![img0_5](imgs/0_5.png)
+
+- Després de fer els canvis, tanquem la feature
+![img0_6](imgs/0_6.png)
+
+- Log
 ![img1](imgs/1.png)
 
 #### 👤 Usuari 2 (contingut HTML)
@@ -40,11 +50,18 @@ Aquest model facilita el treball en equip, assegura un desenvolupament organitza
    - `release/v1.0`  
    - Publica la versió **v1.0** amb totes les característiques integrades.
 
-Creació feature/estilsCSS
+- Creació feature/estilsCSS
 ![img3](imgs/3.png)
 
-Creació release v1.0
+- Creació release v1.0
+![img4_5](imgs/4_5.png)
+
+- Una volta fem els canvis de versió, tanquem la release
+![img4_6](imgs/4_6.png)
+
+- Log
 ![img4](imgs/4.png)
+
 
 #### 👤 Usuari 1 (proves i hotfix)
 1. Durant les proves, detecta una millora en la secció de contingut d’usuari 2.  
@@ -52,4 +69,11 @@ Creació release v1.0
    - `hotfix/milloresV_1_0`  
 3. Aplica les millores i actualitza la versió estable.
 
+- Creem una hotfix per a fer millores i corregir errors
+![img5_5](imgs/5_5.png)
+
+- Una volta fem els canvis, tanquem la hotfix
+![img5_6](imgs/5_6.png)
+
+- Log final
 ![img5](imgs/5.png)
